@@ -19,4 +19,4 @@
 Ссылка страницу игры [Угадай число](https://straussjack.github.io/Guess-number/).
 
 
-https://straussjack.github.io/Guess-number/
+
