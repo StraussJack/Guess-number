@@ -16,7 +16,7 @@
 Для новой игры необходимо нажать кнопку "Сначала!"
 
 
-Ссылка страницу игры [Угадай число](https://straussjack.github.io/Guess-number/).
+Ссылка на страницу игры [Угадай число](https://straussjack.github.io/Guess-number/).
 
 
 
